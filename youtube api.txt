@@ -1,0 +1,5 @@
+project api name - Myyoutubeproject
+Api Key   AIzaSyD-Cx6Jxup8-mNI16JbCXUhjtjuLqASHg8
+https://www.discussdesk.com/integrate-youtube-api-in-php-for-data-and-video-analytics.htm
+clint id- 777197446426-lm0v8ef4amsc391chi1ooocutfi25t0c.apps.googleusercontent.com
+ client secret pXUQYPovmyWGVOBKgDJMMWcb

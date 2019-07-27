@@ -1,0 +1,14 @@
+Npm- node js package manager
+npm install -g Typescript - globally installed
+for new project create command- ng new angular7app
+for sarver Ativte- ng server
+
+About Folder
+1- n2n-  for intrigation testing end to end 
+2- node module-project create to reference folder janrate 
+3- 
+4- src - main folder all work in this folder
+(booting and every think doing in this folder)
+for making a new module- ng g c employ
+for create a module ng g module company
+   
